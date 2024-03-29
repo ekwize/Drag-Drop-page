@@ -1,6 +1,6 @@
-## Drag & Drop Example (HTML, CSS, JS)
+# Drag & Drop Example (HTML, CSS, JS)
 
 [![JjNRxCQ.gif](https://iili.io/JjNRxCQ.gif)](https://freeimage.host/)
 
-# View
+## View
 <https://codepen.io/ekwize/pen/KKYqZMp>
